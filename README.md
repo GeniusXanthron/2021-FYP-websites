@@ -5,13 +5,6 @@ Notes:
 - Group 9's project isn't committed here, because it already has its own [repo](https://github.com/geniusxanthron/kitchen-catastrophe-website). [Check it out](https://geniusxanthron.github.io/kitchen-catastrophe-website).
 
 ## Links
-[Group 1](https://geniusxanthron.github.io/2021-FYP-websites/GROUP1_1K4/game_homepage.php)  
-[Group 2](https://geniusxanthron.github.io/2021-FYP-websites/GROUP2_1K4/Tomb_Game.php)  
-[Group 3](https://geniusxanthron.github.io/2021-FYP-websites/GROUP3_1K4/index.php)  
-[Group 4](https://geniusxanthron.github.io/2021-FYP-websites/GROUP4_1K5/homepage.php)  
-[Group 5](https://geniusxanthron.github.io/2021-FYP-websites/GROUP5_1K5/index.php)  
-[Group 6](https://geniusxanthron.github.io/2021-FYP-websites/GROUP6_1K5/homepage.php)  
-[Group 7](https://geniusxanthron.github.io/2021-FYP-websites/GROUP7_1K6/index.php)  
-[Group 8](https://geniusxanthron.github.io/2021-FYP-websites/GROUP8_1K6/homepage.php)  
+Because of the files labeled as Hack/PHP, any of groups 1-8's pages and some of group 10's pages can't be accessed on GitHub Pages.
 [Group 10](https://geniusxanthron.github.io/2021-FYP-websites/GROUP10_1K6/Tiger_game.html)  
 
