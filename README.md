@@ -7,11 +7,11 @@ Notes:
 ## Links
 [Group 1](https://geniusxanthron.github.io/2021-FYP-websites/GROUP1_1K4/game_homepage.php)  
 [Group 2](https://geniusxanthron.github.io/2021-FYP-websites/GROUP2_1K4/Tomb_Game.php)  
-[Group 3](https://geniusxanthron.github.io/2021-FYP-websites/GROUP3_1K4/)  
+[Group 3](https://geniusxanthron.github.io/2021-FYP-websites/GROUP3_1K4/index.php)  
 [Group 4](https://geniusxanthron.github.io/2021-FYP-websites/GROUP4_1K5/homepage.php)  
-[Group 5](https://geniusxanthron.github.io/2021-FYP-websites/GROUP5_1K5/)  
+[Group 5](https://geniusxanthron.github.io/2021-FYP-websites/GROUP5_1K5/index.php)  
 [Group 6](https://geniusxanthron.github.io/2021-FYP-websites/GROUP6_1K5/homepage.php)  
-[Group 7](https://geniusxanthron.github.io/2021-FYP-websites/GROUP7_1K6/)  
+[Group 7](https://geniusxanthron.github.io/2021-FYP-websites/GROUP7_1K6/index.php)  
 [Group 8](https://geniusxanthron.github.io/2021-FYP-websites/GROUP8_1K6/homepage.php)  
 [Group 10](https://geniusxanthron.github.io/2021-FYP-websites/GROUP10_1K6/Tiger_game.html)  
 
