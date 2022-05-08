@@ -6,5 +6,5 @@ Notes:
 
 ## Links
 Because of the files labeled as Hack/PHP, any of groups 1-8's pages and some of group 10's pages can't be accessed on GitHub Pages.  
-[Group 10](https://geniusxanthron.github.io/2021-FYP-websites/GROUP10_1K6/Tiger_game.html)  
+[Group 10 Home Page](https://geniusxanthron.github.io/2021-FYP-websites/GROUP10_1K6/Tiger_game.html)  
 
